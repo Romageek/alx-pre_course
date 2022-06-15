@@ -1,2 +1,2 @@
 My first readme
-I'm on my to becoming a software engineer
+I'm on my way to becoming a software engineer
