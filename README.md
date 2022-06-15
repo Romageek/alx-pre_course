@@ -1,2 +1,2 @@
 My first readme
-I'm now a software engineer at alx
+I'm on my to becoming a software engineer
