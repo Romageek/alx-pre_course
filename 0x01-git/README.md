@@ -1,1 +1,1 @@
-Second README in Alx SE
+I'm now a software engineer at ALX
